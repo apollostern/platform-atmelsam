@@ -24,7 +24,8 @@
   "frameworks": {
     "arduino": {
       "package": "framework-arduino-sam",
-      "script": "builder/frameworks/arduino.py"
+      "script": "builder/frameworks/arduino.py",
+      "url": "https://github.com/apollostern/arduinoboards/blob/main/adafruit-samd-1.6.6.tar.bz2"
     },
     "mbed": {
       "package": "framework-mbed",
