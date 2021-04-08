@@ -1,0 +1,13 @@
+"framework-arduinoteensy": [
+    {
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+      "system": "*", 
+      "url": "", 
+      "version": "1.135.0"
+    }, 
+    {
+      "sha1": "3cc0670966ce4fd855762f30ba05b2cc0541580b", 
+      "system": "*", 
+      "url": "https://dl.bintray.com/platformio/dl-packages/framework-arduinoteensy-1.136.0.tar.gz", 
+      "version": "1.136.0"
+    }, 
