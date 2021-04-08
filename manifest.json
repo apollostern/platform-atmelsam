@@ -1,8 +1,0 @@
-"framework-atmelsam": [
-    {
-      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
-      "system": "*", 
-      "url": "https://github.com/apollostern/arduinoboards/blob/main/adafruit-samd-1.6.6.tar.bz2", 
-      "version": "1.6.6"
-    }
-]
